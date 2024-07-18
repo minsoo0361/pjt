@@ -47,7 +47,7 @@ Y&S Financial Service는 접근성 좋은 금융 서비스를 제공하여 효�
 ([https://finlife.fss.or.kr/finlife/api](https://finlife.fss.or.kr/finlife/api/fdrmDpstApi/list.do?menuNo=700052) 사이트에서 정기예금/적금 api 참고)
 
 
-## 2024-05-17(금)
+## 2024-05-17(금)
 
 - Home 페이지 navbar 구현
 - 로그인/로그아웃/회원가입 기능 구현
